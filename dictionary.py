@@ -6,3 +6,9 @@ person = {
 print(person)
 
 print(person.items())
+
+print(person["name"])
+
+person["wright"] = "78kg"
+
+print(person)
